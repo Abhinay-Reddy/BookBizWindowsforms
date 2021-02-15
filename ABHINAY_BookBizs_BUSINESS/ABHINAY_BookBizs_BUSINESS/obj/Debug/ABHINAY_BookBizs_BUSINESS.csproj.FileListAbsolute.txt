@@ -1,0 +1,17 @@
+C:\Users\abhin\source\repos\ABHINAY_BookBizs_BUSINESS\ABHINAY_BookBizs_BUSINESS\bin\Debug\ABHINAY_BookBizs_BUSINESS.exe.config
+C:\Users\abhin\source\repos\ABHINAY_BookBizs_BUSINESS\ABHINAY_BookBizs_BUSINESS\bin\Debug\ABHINAY_BookBizs_BUSINESS.exe
+C:\Users\abhin\source\repos\ABHINAY_BookBizs_BUSINESS\ABHINAY_BookBizs_BUSINESS\bin\Debug\ABHINAY_BookBizs_BUSINESS.pdb
+C:\Users\abhin\source\repos\ABHINAY_BookBizs_BUSINESS\ABHINAY_BookBizs_BUSINESS\obj\Debug\ABHINAY_BookBizs_BUSINESS.csprojAssemblyReference.cache
+C:\Users\abhin\source\repos\ABHINAY_BookBizs_BUSINESS\ABHINAY_BookBizs_BUSINESS\obj\Debug\ABHINAY_BookBizs_BUSINESS.AuthorInformationForm.resources
+C:\Users\abhin\source\repos\ABHINAY_BookBizs_BUSINESS\ABHINAY_BookBizs_BUSINESS\obj\Debug\ABHINAY_BookBizs_BUSINESS.BookInformationForm.resources
+C:\Users\abhin\source\repos\ABHINAY_BookBizs_BUSINESS\ABHINAY_BookBizs_BUSINESS\obj\Debug\ABHINAY_BookBizs_BUSINESS.ClientInformationForm.resources
+C:\Users\abhin\source\repos\ABHINAY_BookBizs_BUSINESS\ABHINAY_BookBizs_BUSINESS\obj\Debug\ABHINAY_BookBizs_BUSINESS.EmployeesInformationForm.resources
+C:\Users\abhin\source\repos\ABHINAY_BookBizs_BUSINESS\ABHINAY_BookBizs_BUSINESS\obj\Debug\ABHINAY_BookBizs_BUSINESS.LoginForm.resources
+C:\Users\abhin\source\repos\ABHINAY_BookBizs_BUSINESS\ABHINAY_BookBizs_BUSINESS\obj\Debug\ABHINAY_BookBizs_BUSINESS.Properties.Resources.resources
+C:\Users\abhin\source\repos\ABHINAY_BookBizs_BUSINESS\ABHINAY_BookBizs_BUSINESS\obj\Debug\ABHINAY_BookBizs_BUSINESS.csproj.GenerateResource.cache
+C:\Users\abhin\source\repos\ABHINAY_BookBizs_BUSINESS\ABHINAY_BookBizs_BUSINESS\obj\Debug\ABHINAY_BookBizs_BUSINESS.csproj.CoreCompileInputs.cache
+C:\Users\abhin\source\repos\ABHINAY_BookBizs_BUSINESS\ABHINAY_BookBizs_BUSINESS\obj\Debug\ABHINAY_BookBizs_BUSINESS.exe
+C:\Users\abhin\source\repos\ABHINAY_BookBizs_BUSINESS\ABHINAY_BookBizs_BUSINESS\obj\Debug\ABHINAY_BookBizs_BUSINESS.pdb
+C:\Users\abhin\source\repos\ABHINAY_BookBizs_BUSINESS\ABHINAY_BookBizs_BUSINESS\obj\Debug\ABHINAY_BookBizs_BUSINESS.UserInformationForm.resources
+C:\Users\abhin\source\repos\ABHINAY_BookBizs_BUSINESS\ABHINAY_BookBizs_BUSINESS\obj\Debug\ABHINAY_BookBizs_BUSINESS.PublisherInformationForm.resources
+C:\Users\abhin\source\repos\ABHINAY_BookBizs_BUSINESS\ABHINAY_BookBizs_BUSINESS\obj\Debug\ABHINAY_BookBizs_BUSINESS.BooksAuthorPublisherViewForm.resources
